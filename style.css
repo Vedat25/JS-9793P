@@ -1,0 +1,41 @@
+.div{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+} 
+
+.div2{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: beige; */
+}
+
+.p{
+    font-size: larger;
+    color: rgb(213, 18, 231);
+    font-weight: bolder;
+}
+
+.music{
+    margin-left: 30%;
+    margin-top: 5%;
+    height: 500px;
+    width: 750px;
+}
+
+.button{
+    margin-right: 2%;
+    background-color:rgb(231, 146, 18);
+    color: rgb(13, 55, 194);
+    height: 50px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+#counter{
+    font-size: 3vh;
+}
